@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup as BS
 import random
 import os
 
-TOKEN = "6631871232:AAFqp5DD7n1vTw6agij3UUR_XAFy7US6D2c"
-TOKEN_YANDEX = "cd6b7193-b438-4b24-9d25-15f8a2a86c17"
+TOKEN = "_____"
+TOKEN_YANDEX = "______"
 app = Flask(__name__, template_folder='../public_html')
 
 colors = {
